@@ -15,21 +15,12 @@ The preferred way to install this extension is through [Composer][composer].
 
 To install **VSP_Framework library**, simply:
 
-    $ composer require varunsridharan/vsp-framework
-
-The previous command will only install the necessary files, if you prefer to **download the entire source code** you can use:
-
-    $ composer require varunsridharan/vsp-framework --prefer-source
-
-You can also **clone the complete repository** with Git:
-
-    $ git clone https://github.com/varunsridharan/vsp-framework.git
 
 Or **install it manually**:
 
-[Download VSP_Framework.zip][downloadzip]:
+[Download images.zip][downloadzip]:
 
-    $ wget https://github.com/varunsridharan/vsp-framework/archive/master.zip
+    $ wget https://github.com/
 
 ## 🚀 Usage
 
@@ -54,7 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 If you would like to help, please take a look at the list of [issues](issues/).
 
 ## 💰 Sponsor
-[I][twitter] fell in love with open-source in 2013 and there has been no looking back since! You can read more about me [here][website].
+[I][twitter] fell in love with open-source in 2024 and there has been no looking back since! You can read more about me [here][website].
 If you, or your company, use any of my projects or like what I’m doing, kindly consider backing me. I'm in this for the long run.
 
 - ☕ How about we get to know each other over coffee? Buy me a cup for just [**$9.99**][buymeacoffee]
@@ -63,7 +54,7 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 - 🚀         Love open-source tools? Me too! How about supporting one hour of open-source development for just [**$49.99 one-time ?**][paypal]
 
 ## 📜  License & Conduct
-- [**General Public License v3.0 license**](LICENSE) © [Varun Sridharan](website)
+- [**General Public License v3.0 license**](LICENSE) © [](website)
 - [Code of Conduct](code-of-conduct.md)
 
 ## 📣 Feedback
@@ -74,12 +65,12 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 - **Follow** me on [👨‍💻 Github][github] and stay updated on free and open-source software
 - **Follow** me on [🐦 Twitter][twitter] to get updates on my latest open source projects
 - **Message** me on [📠 Telegram][telegram]
-- **Follow** my pet on [Instagram][sofythelabrador] for some _dog-tastic_ updates!
+- **Follow** my pet on [Instagram][instagram] for some _dog-tastic_ updates!
 
 ---
 
 <p align="center">
-<i>Built With ♥ By <a href="https://sva.onl/twitter"  target="_blank" rel="noopener noreferrer">Varun Sridharan</a> <a href="https://en.wikipedia.org/wiki/India"><img src="https://cdn.svarun.dev/flag-india-flat.svg" width="20px"/></a> </i> <br/><br/>
+<i>Built With ♥ By <a href="https://#/twitter"  target="_blank" rel="noopener noreferrer">Carlos Caaza</a> <a href="https://en.wikipedia.org/wiki/Puerto-Rico"><img src="https://cdn.svarun.dev/flag-puerto-rico-flat.svg" width="20px"/></a> </i> <br/><br/>
    <img src="https://s.w.org/style/images/codeispoetry.png"/>
 </p>
 
@@ -88,18 +79,18 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 
 
 <!-- Personl Links -->
-[paypal]: https://sva.onl/paypal
-[buymeacoffee]: https://sva.onl/buymeacoffee
-[sofythelabrador]: https://www.instagram.com/sofythelabrador/
-[github]: https://sva.onl/github/
-[twitter]: https://sva.onl/twitter/
-[telegram]: https://sva.onl/telegram/
-[email]: https://sva.onl/email
-[website]: https://sva.onl/website/
+[paypal]: https://##/paypal
+[buymeacoffee]: https://##/buymeacoffee
+[sofythelabrador]: https://www.instagram.com/#/
+[github]: https://s##/github/
+[twitter]: https://##/twitter/
+[telegram]: https://##/telegram/
+[email]: https://##/email
+[website]: https://##/website/
 
 <!-- Private -->
-[composer]: https://sva.onl/composer/
-[downloadzip]:https://github.com/varunsridharan/vsp-framework/archive/master.zip
+[composer]: https://##/composer/
+[downloadzip]:https://github.com/iamlos
 [wpcsl]: https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/
 
 <!-- Poser -->
