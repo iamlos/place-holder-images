@@ -13,7 +13,7 @@ Custom Github Template
 ## ⚙️Installation
 The preferred way to install this extension is through [Composer][composer].
 
-To install **VSP_Framework library**, simply:
+To install **Place_Holder_Images library**, simply:
 
 
 Or **install it manually**:
